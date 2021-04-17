@@ -1,0 +1,10 @@
+git status
+On branch feature/unzip
+Changes not staged for commit:
+  (use "git add ..." to update what will be committed)
+  (use "git checkout -- ..." to discard changes in working directory)
+
+	modified:   src/main/java/org/zeroturnaround/ziprebel/ZipRebel.java
+	modified:   src/test/java/org/zeroturnaround/ziprebel/ZipRebelTest.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
