@@ -27,7 +27,6 @@ $this->load->model('ManageUsers_Model');
 $this->ManageUsers_Model->deleteuser($uid);
 $this->session->set_flashdata('success', 'User data deleted');
 redirect('admin/manage_users');
-}
-
+} 
 
 }
